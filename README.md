@@ -46,6 +46,10 @@ Jehyeon Park
 
 ## Reference
 
-```https://github.com/JDongian/python-jamo```
+- Jamo Library
+
+```
+    https://github.com/JDongian/python-jamo
+```
 
 <hr/>
