@@ -26,7 +26,7 @@ Jehyeon Park
 
 ## Description
 
-- This engine was developed for <a href = 'https://github.com/heat-of-fusion/Eye-Tracking-HCI-Interface'>```Eye-Tracking-HCI-Interface```</a> repository.
+- This extension was developed for <a href = 'https://github.com/heat-of-fusion/Eye-Tracking-HCI-Interface'>```Eye-Tracking-HCI-Interface```</a> repository.
 
 <hr/>
 
